@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "applicationId": "OfficeInstallerRO",
+  "version": "1.1.0",
+  "downloadUrl": "https://raw.githubusercontent.com/stavila0170/office-installer-ro-updates/main/packages/OfficeInstallerRO-1.1.0.exe",
+  "sha256": "5ffd401cf409e7b8c8c3e239f3860551458b159e21dc35fbc8b81f36caf94aa0",
+  "catalogRevision": 1,
+  "updatedUtc": "2026-10-25T09:09:31.4965993+00:00",
+  "products": [
+    {
+      "Name": "Microsoft 365 Apps pentru intreprinderi",
+      "ProductId": "O365ProPlusRetail",
+      "Channel": "Current",
+      "License": "Abonament Microsoft 365 pentru intreprinderi"
+    },
+    {
+      "Name": "Microsoft 365 Apps pentru business",
+      "ProductId": "O365BusinessRetail",
+      "Channel": "Current",
+      "License": "Abonament Microsoft 365 Business"
+    },
+    {
+      "Name": "Office LTSC Professional Plus 2024",
+      "ProductId": "ProPlus2024Volume",
+      "Channel": "PerpetualVL2024",
+      "License": "Licenta de volum Office LTSC 2024"
+    },
+    {
+      "Name": "Office LTSC Standard 2024",
+      "ProductId": "Standard2024Volume",
+      "Channel": "PerpetualVL2024",
+      "License": "Licenta de volum Office LTSC 2024"
+    },
+    {
+      "Name": "Office Professional 2024 (retail)",
+      "ProductId": "Professional2024Retail",
+      "Channel": "Current",
+      "License": "Licenta retail Office Professional 2024"
+    },
+    {
+      "Name": "Office Home & Business 2024 (retail)",
+      "ProductId": "HomeBusiness2024Retail",
+      "Channel": "Current",
+      "License": "Licenta retail Office Home & Business 2024"
+    },
+    {
+      "Name": "Office LTSC Professional Plus 2021",
+      "ProductId": "ProPlus2021Volume",
+      "Channel": "PerpetualVL2021",
+      "License": "Licenta de volum Office LTSC 2021"
+    },
+    {
+      "Name": "Office LTSC Standard 2021",
+      "ProductId": "Standard2021Volume",
+      "Channel": "PerpetualVL2021",
+      "License": "Licenta de volum Office LTSC 2021"
+    }
+  ]
+}
