@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "OfficeInstallerRO",
-  "version": "1.1.0",
-  "downloadUrl": "https://raw.githubusercontent.com/stavila0170/office-installer-ro-updates/main/packages/OfficeInstallerRO-1.1.0.exe",
-  "sha256": "5ffd401cf409e7b8c8c3e239f3860551458b159e21dc35fbc8b81f36caf94aa0",
+  "version": "1.1.1",
+  "downloadUrl": "https://raw.githubusercontent.com/stavila0170/office-installer-ro-updates/main/packages/OfficeInstallerRO-1.1.1.exe",
+  "sha256": "6e1bb6a524581c03dc81d1ea17d51a0c20871022d6119b6d190b4ffe10040a1b",
   "catalogRevision": 1,
-  "updatedUtc": "2026-10-25T09:09:31.4965993+00:00",
+  "updatedUtc": "2026-10-25T09:17:04.3847516+00:00",
   "products": [
     {
       "Name": "Microsoft 365 Apps pentru intreprinderi",

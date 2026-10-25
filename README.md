@@ -4,7 +4,7 @@ Catalog public si pachete de actualizare pentru Office Installer RO.
 
 ## Descarcare
 
-[Descarca OfficeInstallerRO 1.1.0](https://raw.githubusercontent.com/stavila0170/office-installer-ro-updates/main/packages/OfficeInstallerRO-1.1.0.exe)
+[Descarca OfficeInstallerRO 1.1.1](https://raw.githubusercontent.com/stavila0170/office-installer-ro-updates/main/packages/OfficeInstallerRO-1.1.1.exe)
 
 Aplicatie Windows 10/11 pentru Microsoft 365 si Office LTSC. Selectie editie,
 limbi, arhitectura si aplicatii; cache reutilizabil; progres; dezinstalare
@@ -27,5 +27,5 @@ Catalogul este [updates.json](updates.json), iar pachetele sunt in packages/.
 Sursele de recuperare si backupurile sunt pastrate separat, in destinatii private.
 Acest repository nu contine configuratii, jurnale sau date private ale utilizatorului.
 
-Pentru versiuni 1.0.x, prima instalare a 1.1.0 se face manual, deoarece aplicatia
+Pentru versiuni 1.0.x, prima instalare a 1.1.1 se face manual, deoarece aplicatia
 veche nu include updaterul.
